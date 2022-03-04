@@ -1,0 +1,5 @@
+{
+    "@context": {
+        "BycicleFleet": "https://www.saint-quentin.fr/ontology#BycicleFleet",
+    }
+}
