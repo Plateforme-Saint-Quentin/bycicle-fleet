@@ -1,6 +1,6 @@
 {
     "@context": {
         "BycicleFleet": "https://www.saint-quentin.fr/ontology#BycicleFleet",
-        "refBycicleFleet":  "https://www.saint-quentin.fr/ontology#RefBycicleFleet",
+        "refBycicleFleet":  "https://www.saint-quentin.fr/ontology#RefBycicleFleet"
     }
 }
